@@ -1,0 +1,30 @@
+Proses Perhitungan
+2001+2002+2003+.........+3998+3999+4000 = ?
+
+↓	Hitung selisih dari dua nilai berturut
+
+d=2002-2001
+
+↓	Kurangkan bilangan-bilangannya
+
+d=1
+
+↓	Subtitusi suku pertama a(1)=2001, suku terakhir a(n)=4000, dan d=1 ke dalam rumus untuk suku ke-n dari baris aritmetika, a(n)=a(1)+(n-1)d
+
+4000=2001+(n-1)*1
+
+↓	Selesaikan persamaan 
+
+n=2000
+
+↓	Subtitusi a(1)=2001, a(n)=4000, dan n=2000 ke dalam rumus untuk jumlah dari deret aritmatika terdefinisi, n * a(1)+a(n)/2
+
+2000 * 2001+4000/2
+
+↓	Hitung nilai
+
+6001000
+
+Penyelesaian
+6001000
+
