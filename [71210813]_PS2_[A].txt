@@ -1,0 +1,10 @@
+1. Air teh hanya akan mengisi cangkir kosong (5).
+
+Penjelasan:
+Air teh dapat mengalir kemudian mengisi cangkir kosong (5) karena salurannya tidak tertutup.
+
+2. Air teh tidak dapat mengisi ke cangkir kosong (4,9,7)
+
+Penjelasan:
+Karena saluran air teh yang menuju cangkir kosong (4,9,7) tertutup.
+
